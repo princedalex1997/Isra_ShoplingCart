@@ -3,8 +3,6 @@
 ## 🚀 Technology Used  
 - React.js  
 - Material-UI  
-- Chart.js  
-- Axios 
 - TailwindCSS
 - React Icons 
 
